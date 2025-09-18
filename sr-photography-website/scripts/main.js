@@ -1,4 +1,4 @@
-// S&R Photography - Client Welcome Packet
+// S&R Illusions - Client Welcome Packet
 // scripts/main.js
 
 (function () {

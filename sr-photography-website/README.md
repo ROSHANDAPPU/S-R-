@@ -1,6 +1,6 @@
-# S&R Photography — Client Welcome Packet
+# S&R Illusions — Client Welcome Packet
 
-A modern, responsive 6-slide presentation-style website for S&R Photography's Client Welcome Packet. Built with semantic HTML, CSS (glass-morphism, gradients, parallax), and vanilla JavaScript for smooth navigation and accessibility.
+A modern, responsive 6-slide presentation-style website for S&R Illusions' Client Welcome Packet. Built with semantic HTML, CSS (glass-morphism, gradients, parallax), and vanilla JavaScript for smooth navigation and accessibility.
 
 ## Project Structure
 
@@ -84,4 +84,4 @@ Modern evergreen browsers (Chrome, Edge, Firefox, Safari). Older browsers may no
 
 ## License
 
-This project is provided as-is for S&R Photography. Unsplash images are loaded by URL and subject to Unsplash licensing. Replace with your own licensed assets if required.
+This project is provided as-is for S&R Illusions. Unsplash images are loaded by URL and subject to Unsplash licensing. Replace with your own licensed assets if required.
